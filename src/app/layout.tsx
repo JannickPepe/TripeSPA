@@ -7,7 +7,7 @@ const inter = Inter({subsets: ['latin'], variable: "--font-sans"});
 const calistoga = Calistoga({subsets: ['latin'], variable: "--font-serif", weight: ['400']});
 
 export const metadata: Metadata = {
-  title: "Portfolio 2024",
+  title: "Tribe Portfolio 2024",
   description: "Newer version with updated projects and features",
 };
 
